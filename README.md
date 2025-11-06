@@ -67,7 +67,7 @@ Through this project, I learned how to:
 ---
 
 ## 👤 Author
-**Your Name**  
-📧 [your.email@example.com]  
+** Julie Jang
+📧 [juliejulie92208@gmail.com]  
 🐙 [GitHub Profile](https://github.com/yourusername)
 
