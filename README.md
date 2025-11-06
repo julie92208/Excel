@@ -35,7 +35,7 @@
   <p>A collaborative Google Sheets tool for tracking and splitting shared expenses.</p>
 
   <iframe 
-    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vXXXX/pubhtml?widget=true&headers=false" 
+    src="[https://docs.google.com/spreadsheets/d/e/2PACX-1vXXXX/pubhtml?widget=true&headers=false](https://docs.google.com/spreadsheets/d/e/2PACX-1vRoE8r7rNy-pc_70fygIRCbmDEA5WLOFSIiznKDFpb7wyjYuJBqwQJ6Ir34aId92OTgArBhoQf7mWxC/pubhtml)" 
     allowfullscreen>
   </iframe>
 
