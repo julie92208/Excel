@@ -1,1 +1,46 @@
 # Excel
+
+## split-expense-tracker
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SplitEase – Smart Expense Splitter</title>
+  <style>
+    body {
+      font-family: "Inter", sans-serif;
+      background-color: #f8f9fa;
+      text-align: center;
+      margin: 0;
+      padding: 2rem;
+    }
+    h1 {
+      color: #222;
+    }
+    iframe {
+      width: 100%;
+      height: 80vh;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+    }
+    p {
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>💰 SplitEase – Smart Expense Splitter</h1>
+  <p>A collaborative Google Sheets tool for tracking and splitting shared expenses.</p>
+
+  <iframe 
+    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vXXXX/pubhtml?widget=true&headers=false" 
+    allowfullscreen>
+  </iframe>
+
+  <p>Created by <strong>[Your Name]</strong> · View code on 
+    <a href="https://github.com/yourusername/split-expense-tracker" target="_blank">GitHub</a>
+  </p>
+</body>
+</html>
